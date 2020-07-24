@@ -1,0 +1,212 @@
+.header-right {
+    float: right;
+    opacity: .75;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.hright {
+    color: black;
+    font-family: helvetica;
+    font-size: 13px;
+    cursor: pointer;
+    text-decoration-line: none;
+    text-decoration-color: black;
+    margin-left: 10px;
+    margin-right: 3px;
+}
+
+.appbutton {
+        display: inline-flex;
+        width: 26px;
+        height: 21px;
+        bottom: 19px;
+        opacity: 0.65;
+        margin-left: 12px;
+        vertical-align: middle;
+        cursor: pointer;
+}
+
+#signin {
+    display: inline-block;
+    font-family: helvetica;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    text-decoration-line: none;
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgba(14, 67, 241, 0.822);
+    width: 70px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 2px;
+    margin-right: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+div.icon img {
+    padding: 250px;
+    display: block;
+    margin-left: 320px;
+    margin-right: -45px;
+    margin-bottom: -325px;
+    text-align: center;
+}
+
+div.searchbar {
+    width: 600px;
+    position: relative;
+    height: 40px;
+    border: 1px solid #bebaba;
+    border-radius: 30px;
+    margin: 90px auto;
+}
+
+li.topnav-right {
+    display: inline-block;
+    font-family: helvetica;
+    font-weight: bold;
+    color: white;
+    text-decoration-line: none;
+    text-align: center;
+    line-height: 30px;
+    vertical-align: middle;
+    background-color: rgba(14, 67, 241, 0.822);
+    border-radius: 2px;
+    margin-right: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.searchglass {
+    background-image: url("http://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
+    display: inline-block;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    right: 565px;
+    top: 12px;
+    opacity: 0.3;
+    background-position: -250px -36px;
+}
+
+.mic {
+    background-image: url(https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png);
+    display: inline-block;
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    right: 20px;
+    top: 10px;
+    background-size: 24px 24px;
+    cursor: pointer;
+}
+
+.search-button {
+    display: flex;
+    width: 600px;
+    height: 40px;
+    margin: -50px auto;
+    justify-content: center;
+}
+
+.searchbutton {
+    color: #5f6368;
+    background-color: #f2f2f2;
+    border: none;
+    padding: 0 20px;
+    height: 36px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 0 5px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.lucky {
+    color: #5f6368;
+    background-color: #f2f2f2;
+    border: none;
+    padding: 0 20px;
+    height: 36px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 0 5px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.offered {
+    display: block;
+    font-family: helvetica;
+    font-size: 12px;
+    color: black;
+    text-align: center;
+}
+
+p {
+    margin-block-start: 7em;
+    margin-block-end: 7em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.footsy {
+    background-color: rgba(128, 128, 128, 0.185);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+}
+
+.footer-left {
+    float: left;
+    opacity: .75;
+    align-items: center;
+    bottom: 10px;
+    left: 10px;
+    position: fixed; 
+}
+
+nav {
+   display: block;
+}
+
+.foot-left {
+    font-family: helvetica;
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration-line: none;
+    margin-left: 18px;
+    margin-right: 3px;
+}
+
+.footer-right {
+    float: right;
+    opacity: .75;
+    align-items: center;
+    bottom: 10px;
+    right: 30px;
+    position: fixed; 
+}
+
+.foot-right {
+    font-family: helvetica;
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration-line: none;
+    margin-left: 18px;
+    margin-right: 3px;
+}
+
+
+
+
+
+
+
+
+

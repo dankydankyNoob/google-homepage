@@ -1,0 +1,1 @@
+This is clone homepage of Google was made as a project for www.theodinproject.com. I'm just a beginner who try to build a site.
